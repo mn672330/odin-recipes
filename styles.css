@@ -1,0 +1,15 @@
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    font-style: italic;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+    color: aquamarine;
+}
+
+/*this it to moive pictures around
+.pickmid{
+    float:right;
+    Margin-left:30;
+/* this is background
